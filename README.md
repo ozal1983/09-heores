@@ -2,4 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## estos csambios son nuevos
+## estos csambios son nuevos desde github
